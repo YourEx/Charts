@@ -1,0 +1,1 @@
+node node_modules\tsd\build\cli.js %1 %2 %3

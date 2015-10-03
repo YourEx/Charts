@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "jquery/jquery.d.ts": {
+      "commit": "ef32bff4d15782dbbabf99ecb17ba22119cc2bd2"
+    },
+    "highcharts/highcharts.d.ts": {
+      "commit": "ef32bff4d15782dbbabf99ecb17ba22119cc2bd2"
+    },
+    "knockout/knockout.d.ts": {
+      "commit": "ebc69904eb78f94030d5d517b42db20867f679c0"
+    },
+    "highcharts/highstock.d.ts": {
+      "commit": "ef32bff4d15782dbbabf99ecb17ba22119cc2bd2"
+    }
+  }
+}

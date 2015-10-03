@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "noEmit": true,
+        "sourceMap": true
+    },
+    "filesGlob": [
+        "./src/**/*.ts",
+        "./typings/**/*.ts"
+    ],
+    "files": [
+        "./src/App.ts",
+        "./src/Bindings/Stockchart.ts",
+        "./src/Chart.ts",
+        "./src/Utils.ts",
+        "./typings/highcharts/highcharts.d.ts",
+        "./typings/highcharts/highstock.d.ts",
+        "./typings/jquery/jquery.d.ts",
+        "./typings/knockout/knockout.d.ts",
+        "./typings/tsd.d.ts"
+    ]
+}
